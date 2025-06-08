@@ -5,9 +5,9 @@ Está foi o mais próximo que consegui de recriar o jogo Dino, que aparece na te
 ![Clique aqui para ver a demonstração do jogo](GIF%20Dino%20Brawser.gif)
 
 # Como Executar:
-* Certifique-se de que o python 3 está instalado;
-* Instale o Pygame;
-* Salve os arquivos do jogo.
+1. Certifique-se de que o python 3 está instalado;
+2. Instale o Pygame;
+3. Salve os arquivos do jogo.
 
 # Controles:
 - Seta para cima - Pular;
