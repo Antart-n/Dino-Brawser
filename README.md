@@ -1,5 +1,5 @@
 # 🦖 Dino Brawser:
-Está foi o mais próximo que consegui de recriar o jogo Dino, que aparece na tela de "no internet" do chrome.
+Este foi o mais próximo que consegui de recriar o jogo Dino, que aparece na tela de "no internet" do chrome.
 ### Descrição:
 O objetivo é correr o máximo possível desviando de cactos e pássaros, alternando entre o modo dia e noite com base na pontuação. Fiz no intuito de práticar meus conhecimentos, mas estou aberto para dicas e observações.
 
